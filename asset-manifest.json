@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Deshboard%20Intership%20Project/static/css/main.f50ebdd0.css",
+    "main.js": "/Deshboard%20Intership%20Project/static/js/main.49b7eb92.js",
+    "static/js/787.33144e69.chunk.js": "/Deshboard%20Intership%20Project/static/js/787.33144e69.chunk.js",
+    "static/media/activeTopic.svg": "/Deshboard%20Intership%20Project/static/media/activeTopic.effbe4baf1bfbe5d0a5784f5ea169d63.svg",
+    "static/media/information-circle 1.svg": "/Deshboard%20Intership%20Project/static/media/information-circle 1.2fb78a6119e1a68214e5ac27e167baa8.svg",
+    "static/media/calendar.svg": "/Deshboard%20Intership%20Project/static/media/calendar.b5054581a2b0d02500ebf7cd6ee89e88.svg",
+    "static/media/videocam.svg": "/Deshboard%20Intership%20Project/static/media/videocam.5f1da5c3b654e3390f080eafb05c8664.svg",
+    "static/media/assignment.svg": "/Deshboard%20Intership%20Project/static/media/assignment.777f7c4ada34e015fd81d21c609388fb.svg",
+    "static/media/activeAssignment.svg": "/Deshboard%20Intership%20Project/static/media/activeAssignment.0603a26850220e50554b5103dbf80afa.svg",
+    "static/media/play-circle.svg": "/Deshboard%20Intership%20Project/static/media/play-circle.6c82b42a301df9b2b1165c11c3df7d75.svg",
+    "static/media/moduleQuiz.svg": "/Deshboard%20Intership%20Project/static/media/moduleQuiz.bc361fd13fd8982e46861fc06637de99.svg",
+    "static/media/activeModuleQuiz.svg": "/Deshboard%20Intership%20Project/static/media/activeModuleQuiz.830c8f72c0eba58f0d09d78837451a41.svg",
+    "static/media/topic.svg": "/Deshboard%20Intership%20Project/static/media/topic.f4a00a682d425c4dbe6e3fa192651b06.svg",
+    "static/media/document.svg": "/Deshboard%20Intership%20Project/static/media/document.454ef7f5780d000678e628a3440eef33.svg",
+    "index.html": "/Deshboard%20Intership%20Project/index.html",
+    "static/media/clock-blue.svg": "/Deshboard%20Intership%20Project/static/media/clock-blue.14af45ae609a182f50ffdbf90a7f5b93.svg",
+    "main.f50ebdd0.css.map": "/Deshboard%20Intership%20Project/static/css/main.f50ebdd0.css.map",
+    "main.49b7eb92.js.map": "/Deshboard%20Intership%20Project/static/js/main.49b7eb92.js.map",
+    "787.33144e69.chunk.js.map": "/Deshboard%20Intership%20Project/static/js/787.33144e69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f50ebdd0.css",
+    "static/js/main.49b7eb92.js"
+  ]
+}
